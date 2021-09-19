@@ -475,7 +475,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B][COLOR aquamarine]Sniper Americano (2014)[/COLOR][/B]</title>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:442e4a1778d39f37ec6ebe51a620c9777c6924c1</link>-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1U46OwMc6vlm7OoSUKfqUH615e.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:442e4a1778d39f37ec6ebe51a620c9777c6924c1</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1U46OwMc6vlm7OoSUKfqUH615e.jpg</thumbnail>
 
 <fanart>https://image.tmdb.org/t/p/original/6GnJs1ZnjoemI0CGFbaENub4SRx.jpg</fanart>
 
