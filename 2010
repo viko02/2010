@@ -907,7 +907,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B][COLOR aquamarine]Bohemian Rhapsody (2018)[/COLOR][/B]</title>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:264766b32855c53676a075002352da32263f9761</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:264766b32855c53676a075002352da32263f9761</link>
+
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg</thumbnail>
 
 <fanart>https://image.tmdb.org/t/p/original/xGzz9pQY6Q33hs3fEOyw7afrFQh.jpg</fanart>
 
